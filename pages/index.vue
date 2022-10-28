@@ -1,6 +1,6 @@
 <template>
   <h3 class="text-white bg-pink-600 p-5">Hi there</h3>
-  <button @click="runMe">Run</button>
+  <button @click="runMe">Run Now</button>
   <div>{{ resutls }}</div>
 </template>
 <script>
